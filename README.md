@@ -1,4 +1,8 @@
 # Cafeteria-Management
+## This file contains the C code to manage the cafeteria and its working efficiently. This work was done in contribution with the following 
+## mentioned contributors.
+
+## Username and Password to login in the management system is:
 User Name:user
 Password:pass
 
